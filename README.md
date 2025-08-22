@@ -5,7 +5,7 @@ The main goal is to provide clear insights into business performance, enabling d
 
 ## **Excel Dashboard**
 
-![Business Performance Dashboard Screenshot](./Screenshot%20(2).png)
+![Business Performance Dashboard Screenshot](./Dashboard.png)
 
 ## **Objectives**
 
