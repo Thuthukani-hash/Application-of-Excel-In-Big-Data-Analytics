@@ -6,6 +6,9 @@ The main goal is to provide clear insights into business performance, enabling d
 
 **Excel Dashbord**
 
+![alt text](https://github.com/Thuthukani-hash/Application-of-Excel-In-Big-Data-Analytics/blob/main/Screenshot (2).png?raw=true)
+
+
 **Objectives**
 
 •	Present and clarify performance across multiple metrics (Profit, Sales, Units Sold, Products, Segments, Years, and Countries). 
